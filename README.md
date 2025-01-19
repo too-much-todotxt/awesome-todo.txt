@@ -22,5 +22,6 @@ plugins for Todo.sh shell (technically bash) script for the command line.
 Not actually tested/used/
 approved/condoned/recommended
 
+  * https://github.com/fniessink/next-action
   * https://chromewebstore.google.com/detail/todotxt-for-chrome-simple/mndijfcodpjlhgjcpcbhncjakaboedbl?hl=en&pli=1
 
