@@ -27,3 +27,7 @@ approved/condoned/recommended
   * https://github.com/fniessink/next-action
   * https://chromewebstore.google.com/detail/todotxt-for-chrome-simple/mndijfcodpjlhgjcpcbhncjakaboedbl?hl=en&pli=1
 
+### Windows
+
+  * https://github.com/benrhughes/todotxt.net includes c# API
+
