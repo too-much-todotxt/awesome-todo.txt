@@ -30,7 +30,7 @@ Cross platform GUI
 
 ### Markor
 
-Markor in am Android note taking app, that has excellent todo.txt support.
+Markor is an Android note taking app, that has excellent todo.txt support.
 
   * https://github.com/gsantner/markor
 
