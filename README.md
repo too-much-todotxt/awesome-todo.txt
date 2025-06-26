@@ -34,6 +34,14 @@ Markor is an Android note taking app, that has excellent todo.txt support.
 
   * https://github.com/gsantner/markor
 
+### Simpletask
+
+Great UI with support for different storage backends.
+
+NOTE unmaintained but stable.
+
+  * https://github.com/mpcjanssen/simpletask-android/
+
 ## potentially awesome
 
 Not actually tested/used/
