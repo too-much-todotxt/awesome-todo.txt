@@ -47,6 +47,14 @@ NOTE unmaintained but stable.
 Not actually tested/used/
 approved/condoned/recommended
 
+### jdotxt
+
+Cross platform Java GUI
+
+  * https://github.com/chms/jdotxt
+
+### Misc
+
   * https://github.com/fniessink/next-action
   * https://chromewebstore.google.com/detail/todotxt-for-chrome-simple/mndijfcodpjlhgjcpcbhncjakaboedbl?hl=en&pli=1
 
