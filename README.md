@@ -62,7 +62,7 @@ Cross platform Java GUI
 
   * https://github.com/vonshednob/pter - cross platform GUI and/or command line TUI
   * https://github.com/ransome1/sleek cross platform GUI
-  * https://github.com/fniessink/next-action
+  * https://github.com/fniessink/next-action - cross platform command line tool. NOTE no longer maintained
   * https://github.com/rkokkelk/todo.txt-ext - Thunderbird extension for Todo.txt
       * https://addons.thunderbird.net/en-US/thunderbird/addon/todotxt-extension/
   * https://chromewebstore.google.com/detail/todotxt-for-chrome-simple/mndijfcodpjlhgjcpcbhncjakaboedbl?hl=en&pli=1
