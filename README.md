@@ -26,6 +26,13 @@ Cross platform GUI
   * https://github.com/QTodoTxt/QTodoTxt2/
   * https://github.com/QTodoTxt/QTodoTxt
 
+## Android
+
+### Markor
+
+Markor in am Android note taking app, that has excellent todo.txt support.
+
+  * https://github.com/gsantner/markor
 
 ## potentially awesome
 
