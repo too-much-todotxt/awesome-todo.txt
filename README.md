@@ -55,6 +55,7 @@ Cross platform Java GUI
 
 ### Misc
 
+  * https://github.com/ransome1/sleek cross platform GUI
   * https://github.com/fniessink/next-action
   * https://chromewebstore.google.com/detail/todotxt-for-chrome-simple/mndijfcodpjlhgjcpcbhncjakaboedbl?hl=en&pli=1
 
