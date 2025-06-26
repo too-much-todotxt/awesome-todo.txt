@@ -19,6 +19,14 @@ plugins for Todo.sh shell (technically bash) script for the command line.
   * todo.sh (todo.txt-cli) plugin https://git.sr.ht/~proycon/todotxt-more/tree/master/item/todo.actions.d/timetrack for time tracking. other plugins like fuzzy search, GitHub issue sync
       * https://proycon.anaproy.nl/posts/todo/
 
+## QTodoTxt2
+
+Cross platform GUI
+
+  * https://github.com/QTodoTxt/QTodoTxt2/
+  * https://github.com/QTodoTxt/QTodoTxt
+
+
 ## potentially awesome
 
 Not actually tested/used/
