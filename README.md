@@ -53,9 +53,13 @@ Cross platform Java GUI
 
   * https://github.com/chms/jdotxt
 
+### vim
+
+  * See https://github.com/too-much-todotxt/spec/wiki/Syntax-Highlighting#vim
+
+
 ### Misc
 
-  * https://github.com/freitass/todo.txt-vim
   * https://github.com/ransome1/sleek cross platform GUI
   * https://github.com/fniessink/next-action
   * https://github.com/rkokkelk/todo.txt-ext - Thunderbird extension for Todo.txt
