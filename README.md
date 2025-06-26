@@ -55,6 +55,7 @@ Cross platform Java GUI
 
 ### Misc
 
+  * https://github.com/freitass/todo.txt-vim
   * https://github.com/ransome1/sleek cross platform GUI
   * https://github.com/fniessink/next-action
   * https://github.com/rkokkelk/todo.txt-ext - Thunderbird extension for Todo.txt
