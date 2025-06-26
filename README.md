@@ -2,6 +2,8 @@
 
 awesome todo.txt related projects, tools, and articles
 
+http://todotxt.org/ is worth checking out, be aware it does have a number of 404 links.
+
 ## Syntax Highlighting
 
   * https://github.com/too-much-todotxt/spec/wiki/Syntax-Highlighting
