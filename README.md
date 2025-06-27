@@ -2,7 +2,7 @@
 
 awesome todo.txt related projects, tools, and articles
 
-http://todotxt.org/ is worth checking out, be aware it does have a number of 404 links.
+http://todotxt.org/ is worth checking out, but be aware that it has a number of 404 links.
 
 ## Syntax Highlighting
 
@@ -38,7 +38,7 @@ Markor is an Android note taking app, that has excellent todo.txt support.
 
 Great UI with support for different storage backends.
 
-NOTE unmaintained but stable.
+NOTE: unmaintained but stable.
 
   * https://github.com/mpcjanssen/simpletask-android/
 
@@ -46,6 +46,12 @@ NOTE unmaintained but stable.
 
 Not actually tested/used/
 approved/condoned/recommended
+
+### Parsing / Reading / Writing Libraries
+
+  * https://github.com/davraamides/todotxt-mode has some Python (regex) based parsing code.
+  * https://github.com/AnthonyDiGirolamo/todotxt-machine/blob/master/todotxt_machine/todo.py
+  * https://codeberg.org/vonshednob/pytodotxt
 
 ### jdotxt
 
