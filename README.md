@@ -42,6 +42,10 @@ NOTE: unmaintained but stable.
 
   * https://github.com/mpcjanssen/simpletask-android/
 
+## Conversion Import/Export
+
+  * https://github.com/juzim/taskwarrior2todo.txt/
+
 ## potentially awesome
 
 Not actually tested/used/
